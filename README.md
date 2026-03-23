@@ -35,8 +35,8 @@ A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (co
 
 ##  Hardware e Interface
 
-![Bancada Plywood Fiat Argo](./public/assets/imghardware1.jpeg.jpeg)
-![Bancada Plywood Fiat Argo](./public/assets/imghardware2.jpeg.jpeg)
+![Bancada Plywood Fiat Argo](./public/assets/imghardware1.jpeg)
+![Bancada Plywood Fiat Argo](./public/assets/imghardware2.jpeg)
 
 ###  Esquema do Protótipo
 [Imagem do esquema elétrico ligando Arduino, MCP2515 e ESP32]
@@ -49,9 +49,6 @@ A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (co
 O aplicativo Android foi desenvolvido para oferecer uma experiência de diagnose automotiva, focando em baixa latência na atualização dos dados.
 
 ###  Wireframes e Interface Final
-[Espaço para os wireframes do planejamento e prints do App em funcionamento]
 
-<p align="center">
-  <img src="./public/assets/wireframesAPP.jpeg.jpeg" width="300" alt="Planejamento UI">
-</p>
+![Bancada Plywood Fiat Argo](./public/assets/wireframesAPP.jpeg)
 

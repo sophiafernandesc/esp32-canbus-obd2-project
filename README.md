@@ -24,9 +24,9 @@ O projeto foi estruturado em quatro camadas principais:
 
 ## Ambiente de Testes 
 
-A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (conhecida como **Plywood**) do **Fiat Argo**. 
+A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (conhecida como **Plywood**) do **Fiat Cronos**. 
 
-![Bancada Plywood Fiat Argo](./public/assets/plywood.jpeg)
+![Bancada Plywood Fiat Cronos](./public/assets/plywood.jpeg)
 
 > ###  Agradecimentos
 > Agradecemos à **Stellantis** pela doação deste equipamento ao laboratório de engenharia da **PUC Minas**. A utilização de um chicote elétrico e módulos (ECUs) originais foi fundamental para a análise real do comportamento do barramento CAN e sucesso deste projeto.
@@ -35,11 +35,11 @@ A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (co
 
 ##  Hardware e Interface
 
-![Bancada Plywood Fiat Argo](./public/assets/imghardware2.jpeg)
+![img hardware](./public/assets/imghardware2.jpeg)
 
 ###  Esquema do Protótipo
 
-![Bancada Plywood Fiat Argo](./public/assets/esquemaHardware.jpeg)
+![img esquema](./public/assets/esquemaHardware.jpeg)
 
 ---
 
@@ -49,5 +49,5 @@ O aplicativo Android foi desenvolvido para oferecer uma experiência de diagnose
 
 ###  WInterface
 
-![Bancada Plywood Fiat Argo](./public/assets/wireframesAPP.jpeg)
+![interfaces app](./public/assets/wireframesAPP.jpeg)
 

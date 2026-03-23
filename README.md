@@ -16,7 +16,7 @@ Este projeto implementa um ecossistema de telemetria veicular utilizando o proto
 O projeto foi estruturado em quatro camadas principais:
 
 1.  **Aquisição (Hardware Automotivo):** Um **Arduino Nano** integrado ao controlador **MCP2515** realiza a leitura dos PIDs via porta **OBD-II**.
-2.  **Simulação de Sensores:** 4 potenciômetros foram acoplados para simular o sistema **TPMS (Tyre Pressure Monitoring System)**, enviando dados de PSI de cada pneu.
+2.  **Simulação de Sensores:** 5 potenciômetros foram acoplados para simular o sistema **TPMS (Tyre Pressure Monitoring System)**, enviando dados de PSI de cada pneu.
 3.  **Gateway IoT:** Uma **ESP32** recebe os dados do Arduino e atua como ponte para a nuvem via protocolo **MQTT**.
 4.  **Interface Mobile:** Aplicativo em **React Native** que consome os tópicos MQTT para exibição em tempo real.
 
@@ -39,7 +39,7 @@ A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (co
 ![Bancada Plywood Fiat Argo](./public/assets/imghardware2.jpeg)
 
 ###  Esquema do Protótipo
-[Imagem do esquema elétrico ligando Arduino, MCP2515 e ESP32]
+
 ![Bancada Plywood Fiat Argo](./public/assets/esquemaHardware.jpeg)
 
 ---
@@ -48,7 +48,7 @@ A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (co
 
 O aplicativo Android foi desenvolvido para oferecer uma experiência de diagnose automotiva, focando em baixa latência na atualização dos dados.
 
-###  Wireframes e Interface Final
+###  WInterface
 
 ![Bancada Plywood Fiat Argo](./public/assets/wireframesAPP.jpeg)
 

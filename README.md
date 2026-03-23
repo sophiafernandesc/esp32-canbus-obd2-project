@@ -35,7 +35,6 @@ A validação do projeto ocorreu na bancada de arquitetura eletroeletrônica (co
 
 ##  Hardware e Interface
 
-![Bancada Plywood Fiat Argo](./public/assets/imghardware1.jpeg)
 ![Bancada Plywood Fiat Argo](./public/assets/imghardware2.jpeg)
 
 ###  Esquema do Protótipo

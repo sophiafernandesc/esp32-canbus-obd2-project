@@ -51,6 +51,8 @@ O aplicativo Android foi desenvolvido para oferecer uma experiência de diagnose
 
 ![interfaces app](./public/assets/wireframesAPP.jpeg)
 
+---
+
 ## Nota sobre Propriedade Intelectual e Segurança
 
 Este repositório tem como objetivo documentar a arquitetura de sistemas e a integração de hardware/software desenvolvida. No entanto, em conformidade com as diretrizes de segurança e sigilo industrial, o código-fonte completo do Arduino e do Aplicativo não estão disponíveis publicamente pelos seguintes motivos:
